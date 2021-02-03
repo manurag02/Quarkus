@@ -1,0 +1,1 @@
+insert into Book values(1,'Charles Dickens','A Tale of two cities');
